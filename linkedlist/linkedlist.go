@@ -143,3 +143,7 @@ func (list *LinkedList[T]) Contains(item T) bool {
 	}
 	return false
 }
+
+// func (list *LinkedList[T]) Sort() {
+// 	//TODO: Sort the elements in the list by exchanging values
+// }
